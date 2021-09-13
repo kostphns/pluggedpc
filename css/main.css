@@ -14,7 +14,7 @@ body {
 .header {
   padding: 1px;
   text-align: center;
-  background: #1abc9c;
+  background: #1f4f45;
   color: white;
 }
 
@@ -42,13 +42,13 @@ body {
 
 
 .main {
-  background-color: white;
+  background-color: #f0eee9;
   padding: 20px;
 }
 
 /* Fake image, just for this example */
 .fakeimg {
-  background-color: #aaa;
+  background-color: #5c5c5c;
   width: 50%;
   padding: 20px;
   float: left;
